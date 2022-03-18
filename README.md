@@ -1,2 +1,3 @@
 # odin-recipes
 Making my first HTML recipe site
+<!--This will be my first project. I will get to demonstrate all the things that I have learn throughout this first course. I have learned what the internet is, different aspects about the web, How to create a virtual machine and use visual studio cade (VSC) as well as a command line. Throughout this section, i have also learned about file and directories, the difference between git and GitHub, the basic workflow of git, HTML, boilerplates, tags and the difference between images and when to use them. I this first project I will be demonstrating all of what I have learned. -->
